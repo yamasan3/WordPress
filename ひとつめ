@@ -1,0 +1,8 @@
+# 数値の演算
+x = 10
+y = 5
+print(x + y) # 15
+
+# 文字列の操作
+my_string = "Hello World"
+print(my_string.upper()) # HELLO WORLD
